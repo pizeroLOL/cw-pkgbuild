@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Class Widget Nightly
+Comment=一款能够显示当前课程的桌面组件应用程序
+Exec=ClassWidgets
+Path=/opt/classwidgets-nightly
+Icon=classwidgets
+Categories=Utilty;
+Keywords=ClassWidgets;
