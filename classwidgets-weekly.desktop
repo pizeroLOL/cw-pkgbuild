@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Class Widget Weekly
+Comment=一款能够显示当前课程的桌面组件应用程序 （周一凌晨四点构建版）
+Exec=ClassWidgets
+Path=/opt/classwidgets-weekly
+Icon=classwidgets-weekly
+Categories=Utilty;
+Keywords=ClassWidgets;
